@@ -11,8 +11,7 @@ html{
 body{
     height: auto;
     width: 100vw;
-    background: linear-gradient(135deg, rgb(0, 255, 102) 20.5%, rgb(63, 220, 255) 86.8%);
-}
+background: linear-gradient(90deg, #0700b8 0%, #00ff88 100%);}
 header {
     background: linear-gradient(135deg, rgb(51, 50, 48) 10.5%, rgb(0, 0, 0) 86.8%);
     box-shadow: rgba(0, 0, 0, 0.56) 0px 0px 20px 10px;
